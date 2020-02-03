@@ -1,0 +1,306 @@
+[
+  {
+    "ts": "2020-02-03T00:14:51.399Z",
+    "level": "error",
+    "error": {
+      "name": "AssetProcessingTimeout",
+      "message": "Asset is taking longer then expected to process.",
+      "entity": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1qghpbyb9we0"
+            }
+          },
+          "id": "u3Um4zkMrAaQioyq4oSIW",
+          "type": "Asset",
+          "createdAt": "2020-02-02T15:52:15.262Z",
+          "updatedAt": "2020-02-03T00:14:25.420Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 2,
+          "publishedAt": "2020-02-02T15:52:23.299Z",
+          "firstPublishedAt": "2020-02-02T15:52:23.299Z",
+          "createdBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "2hko0lLp1eNrQ6dsJ0aT8p"
+            }
+          },
+          "updatedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "2hko0lLp1eNrQ6dsJ0aT8p"
+            }
+          },
+          "publishedCounter": 1,
+          "version": 4,
+          "publishedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "2hko0lLp1eNrQ6dsJ0aT8p"
+            }
+          }
+        },
+        "fields": {
+          "title": {
+            "en-US": "Facebook logo"
+          },
+          "description": {
+            "en-US": "Facebook logo"
+          },
+          "file": {
+            "en-US": {
+              "contentType": "image/png",
+              "fileName": "600px-Facebook_logo_%28square%29.png",
+              "upload": "https://images.ctfassets.net/ntiequ7mc6q6/u3Um4zkMrAaQioyq4oSIW/876e172d31bbc05ab2599e77188ea545/600px-Facebook_logo__28square_29.png"
+            }
+          }
+        }
+      },
+      "stacktrace": [
+        "AssetProcessingTimeout: Asset is taking longer then expected to process.",
+        "C:\\Users\\jakob\\Desktop\\Portfolio\\Portfolio-test\\gatsby-starter-mate\\node_modules\\contentful-management\\dist\\contentful-management.node.js:10580:21",
+        "processTicksAndRejections (internal/process/task_queues.js:93:5)"
+      ]
+    }
+  },
+  {
+    "ts": "2020-02-03T00:14:51.641Z",
+    "level": "error",
+    "error": {
+      "name": "AssetProcessingTimeout",
+      "message": "Asset is taking longer then expected to process.",
+      "entity": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1qghpbyb9we0"
+            }
+          },
+          "id": "6rkOXCpyvuekYIgy6U6gGu",
+          "type": "Asset",
+          "createdAt": "2020-02-02T15:52:15.262Z",
+          "updatedAt": "2020-02-03T00:14:25.506Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 2,
+          "publishedAt": "2020-02-02T15:52:23.830Z",
+          "firstPublishedAt": "2020-02-02T15:52:23.830Z",
+          "createdBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "2hko0lLp1eNrQ6dsJ0aT8p"
+            }
+          },
+          "updatedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "2hko0lLp1eNrQ6dsJ0aT8p"
+            }
+          },
+          "publishedCounter": 1,
+          "version": 4,
+          "publishedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "2hko0lLp1eNrQ6dsJ0aT8p"
+            }
+          }
+        },
+        "fields": {
+          "title": {
+            "en-US": "Gatsby logo"
+          },
+          "description": {
+            "en-US": "Gatsby logo"
+          },
+          "file": {
+            "en-US": {
+              "contentType": "image/png",
+              "fileName": "1*t5EnAu3eSWJA0rmZ9v3xuw.png",
+              "upload": "https://images.ctfassets.net/ntiequ7mc6q6/6rkOXCpyvuekYIgy6U6gGu/9369860d91a93b58c949fedfc8967703/1_t5EnAu3eSWJA0rmZ9v3xuw.png"
+            }
+          }
+        }
+      },
+      "stacktrace": [
+        "AssetProcessingTimeout: Asset is taking longer then expected to process.",
+        "C:\\Users\\jakob\\Desktop\\Portfolio\\Portfolio-test\\gatsby-starter-mate\\node_modules\\contentful-management\\dist\\contentful-management.node.js:10580:21",
+        "processTicksAndRejections (internal/process/task_queues.js:93:5)"
+      ]
+    }
+  },
+  {
+    "ts": "2020-02-03T00:14:51.744Z",
+    "level": "error",
+    "error": {
+      "name": "AssetProcessingTimeout",
+      "message": "Asset is taking longer then expected to process.",
+      "entity": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1qghpbyb9we0"
+            }
+          },
+          "id": "3AorRmtWOsGQ4o8gK0YWKG",
+          "type": "Asset",
+          "createdAt": "2020-02-02T15:52:15.212Z",
+          "updatedAt": "2020-02-03T00:14:25.431Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 2,
+          "publishedAt": "2020-02-02T15:52:22.277Z",
+          "firstPublishedAt": "2020-02-02T15:52:22.277Z",
+          "createdBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "2hko0lLp1eNrQ6dsJ0aT8p"
+            }
+          },
+          "updatedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "2hko0lLp1eNrQ6dsJ0aT8p"
+            }
+          },
+          "publishedCounter": 1,
+          "version": 4,
+          "publishedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "2hko0lLp1eNrQ6dsJ0aT8p"
+            }
+          }
+        },
+        "fields": {
+          "title": {
+            "en-US": "Google Logo"
+          },
+          "description": {
+            "en-US": "Logo from Google"
+          },
+          "file": {
+            "en-US": {
+              "contentType": "image/png",
+              "fileName": "google_PNG19630.png",
+              "upload": "https://images.ctfassets.net/ntiequ7mc6q6/3AorRmtWOsGQ4o8gK0YWKG/bafdc9f6551a2b487fe0126158630b27/google_PNG19630.png"
+            }
+          }
+        }
+      },
+      "stacktrace": [
+        "AssetProcessingTimeout: Asset is taking longer then expected to process.",
+        "C:\\Users\\jakob\\Desktop\\Portfolio\\Portfolio-test\\gatsby-starter-mate\\node_modules\\contentful-management\\dist\\contentful-management.node.js:10580:21",
+        "processTicksAndRejections (internal/process/task_queues.js:93:5)"
+      ]
+    }
+  },
+  {
+    "ts": "2020-02-03T00:14:51.813Z",
+    "level": "error",
+    "error": {
+      "name": "AssetProcessingTimeout",
+      "message": "Asset is taking longer then expected to process.",
+      "entity": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "1qghpbyb9we0"
+            }
+          },
+          "id": "6nf3rNaaVaUqYcoAcciSeC",
+          "type": "Asset",
+          "createdAt": "2020-02-02T15:52:15.250Z",
+          "updatedAt": "2020-02-03T00:14:25.643Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 17,
+          "publishedAt": "2020-02-02T16:27:46.933Z",
+          "firstPublishedAt": "2020-02-02T15:52:22.780Z",
+          "createdBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "2hko0lLp1eNrQ6dsJ0aT8p"
+            }
+          },
+          "updatedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "2hko0lLp1eNrQ6dsJ0aT8p"
+            }
+          },
+          "publishedCounter": 3,
+          "version": 19,
+          "publishedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "2hko0lLp1eNrQ6dsJ0aT8p"
+            }
+          }
+        },
+        "fields": {
+          "title": {
+            "en-US": "Mate Logo"
+          },
+          "description": {
+            "en-US": "Mate Logo"
+          },
+          "file": {
+            "en-US": {
+              "contentType": "image/png",
+              "fileName": "Mate Logo.png",
+              "upload": "https://images.ctfassets.net/ntiequ7mc6q6/6nf3rNaaVaUqYcoAcciSeC/4433ecac61b8aa767edd9e11739bb30a/Mate_Logo.png"
+            }
+          }
+        }
+      },
+      "stacktrace": [
+        "AssetProcessingTimeout: Asset is taking longer then expected to process.",
+        "C:\\Users\\jakob\\Desktop\\Portfolio\\Portfolio-test\\gatsby-starter-mate\\node_modules\\contentful-management\\dist\\contentful-management.node.js:10580:21",
+        "processTicksAndRejections (internal/process/task_queues.js:93:5)"
+      ]
+    }
+  }
+]
